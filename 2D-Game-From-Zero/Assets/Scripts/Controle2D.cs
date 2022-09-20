@@ -44,6 +44,11 @@ namespace Platformer.Mauro
             }
         }
 
+        public bool GetEstaNoChao()
+        {
+            return _estaNoChao;
+        }
+
         /// <summary>
         /// Controla o movimento do jogador a partir de uma quantidade de movimento aplicada e um valor booleano que define se o jogador está tentando pular.
         /// </summary>
