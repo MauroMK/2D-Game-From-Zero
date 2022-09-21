@@ -7,6 +7,10 @@ public class Lazer : MonoBehaviour
     [SerializeField]
     private float speed = 5;
 
+    private int damage = 1;
+
+    public GameObject impactEffect;
+
     void Start()
     {
         var lazerRb = GetComponent<Rigidbody2D>();
@@ -19,7 +23,16 @@ public class Lazer : MonoBehaviour
         {
             return;
         }
+        
+        if (other.gameObject.tag == "Enemie")
+        {
+            var enemieObj = other.GetComponent<Skeleton>();
+            enemieObj.TakeDamage(damage);
+        }
+        // Instancia o efeito de impacto quando acertar algo
+        Instantiate(impactEffect, transform.position, transform.rotation);
         Destroy(gameObject);
+
 
     }
 
