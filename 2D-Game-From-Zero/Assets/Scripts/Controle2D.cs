@@ -103,15 +103,10 @@ namespace Platformer.Mauro
             }
         }
 
-        private void GiraJogador()
-        {
-            // Troca o valor do boolean
-            _viradoParaDireita = !_viradoParaDireita;
-
-            // Multiplicar a escala local do jogador por -1 faz sempre com que ele gire 
-            Vector3 theScale = transform.localScale;
-            theScale.x *= -1;
-            transform.localScale = theScale;
-        }
+        private void GiraJogador() 
+            {
+            _viradoParaDireita=!_viradoParaDireita;
+            transform.Rotate(0f,180f,0f);
+            }
     }
 }
