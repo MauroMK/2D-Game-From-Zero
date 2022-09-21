@@ -5,6 +5,8 @@ using UnityEngine;
 public class Skeleton : MonoBehaviour
 {
     private int hp = 3;
+    
+    public SoundManager soundManager;
 
     public void TakeDamage(int damage)
     {
@@ -18,6 +20,10 @@ public class Skeleton : MonoBehaviour
 
     private void Die()
     {
+        if (soundManager != null)
+        {
+            soundManager.PlayAudio("SkeletonDeath");
+        }
         Destroy(gameObject);
     }
 }
