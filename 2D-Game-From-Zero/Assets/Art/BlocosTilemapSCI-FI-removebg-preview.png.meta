@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: 81d7491c5feeb124ba2cd7d5a7bead22
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 246
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af9f4c980ee2be46821235fc2442907
+      internalID: 1958117808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 245
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd04c8700f7eca449fd5481c309b7cc
+      internalID: 782424670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 245
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d29c9a8c0c47c8459f06ae8f36b3233
+      internalID: 499919398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 245
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c69b2d75aefff348a9f42fee158fa8d
+      internalID: 1793832660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 245
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051d8563b3199664e8cf33f0a34a167c
+      internalID: 1685730583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 239
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51792cd700a736b41bcc16f6d392e44b
+      internalID: 1447505217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 241
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8ea814ad6efa54c9b0ef30a237edff
+      internalID: -723480096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 176
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07864465cf78fc34ca7ca4b975772c9f
+      internalID: -30133529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 174
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26350ba43078034188231baba0eae2c
+      internalID: 1360506878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 176
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dd70182ac12254c85565976d69b494
+      internalID: -42685661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 169
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f111c9119091c1d48938acebd006e434
+      internalID: -1561494449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 168
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d6a961418acd74c8aa75f6db960308
+      internalID: -1515519881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 171
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dedc4a42fe71b43bd3af119bbbcce2
+      internalID: 167035862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 174
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef34d83c62fc6b54e877e2ca98f605a9
+      internalID: -458602369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 168
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb8a59a3b8665748a432ec2249e4a04
+      internalID: -644542986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 107
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae6400813781db4cad4e3ee840a0145
+      internalID: 1086772579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 106
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0a3da48d3ca5b4d9f81d4997173c34
+      internalID: -1095684709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 106
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede9bcf2eba05d3419531092846c4918
+      internalID: -1106572099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 103
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a1188c753d8f4dbd8902290c81dbb
+      internalID: -966843507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 101
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7903692342a557c44b4cffeaa7b008f7
+      internalID: 2084552049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 101
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dbb209754c12c45b5962734d07a957
+      internalID: 2135960659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 36
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc8bb4f9d2175649a28c058681f7274
+      internalID: 1537735166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlocosTilemapSCI-FI-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 30
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bb8bc55077c874788480b00491ed15
+      internalID: 423984838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BlocosTilemapSCI-FI-removebg-preview_12: 167035862
+      BlocosTilemapSCI-FI-removebg-preview_7: -30133529
+      BlocosTilemapSCI-FI-removebg-preview_18: -966843507
+      BlocosTilemapSCI-FI-removebg-preview_9: -42685661
+      BlocosTilemapSCI-FI-removebg-preview_1: 782424670
+      BlocosTilemapSCI-FI-removebg-preview_11: -1515519881
+      BlocosTilemapSCI-FI-removebg-preview_8: 1360506878
+      BlocosTilemapSCI-FI-removebg-preview_20: 2135960659
+      BlocosTilemapSCI-FI-removebg-preview_0: 1958117808
+      BlocosTilemapSCI-FI-removebg-preview_13: -458602369
+      BlocosTilemapSCI-FI-removebg-preview_14: -644542986
+      BlocosTilemapSCI-FI-removebg-preview_2: 499919398
+      BlocosTilemapSCI-FI-removebg-preview_15: 1086772579
+      BlocosTilemapSCI-FI-removebg-preview_3: 1793832660
+      BlocosTilemapSCI-FI-removebg-preview_6: -723480096
+      BlocosTilemapSCI-FI-removebg-preview_16: -1095684709
+      BlocosTilemapSCI-FI-removebg-preview_22: 423984838
+      BlocosTilemapSCI-FI-removebg-preview_10: -1561494449
+      BlocosTilemapSCI-FI-removebg-preview_17: -1106572099
+      BlocosTilemapSCI-FI-removebg-preview_21: 1537735166
+      BlocosTilemapSCI-FI-removebg-preview_19: 2084552049
+      BlocosTilemapSCI-FI-removebg-preview_5: 1447505217
+      BlocosTilemapSCI-FI-removebg-preview_4: 1685730583
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
